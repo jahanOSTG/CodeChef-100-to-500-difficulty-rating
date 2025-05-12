@@ -1,6 +1,7 @@
 #include<iostream>
 #include<algorithm>
 using namespace std;
+
 int main(){
     int t,a,b,c,d;
     int sum,n_max;
