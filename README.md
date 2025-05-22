@@ -15,24 +15,24 @@ This dedication and consistency earned me an **official Certificate of Achieveme
 
 ## 🧠 Topics Mastered
 
-### 🔁 Loops
+###  Loops
 - `for`, `while`, `do-while` loops
 - Summation, factorial, and series problems
 - Star and number patterns
 
-### 🔄 Nested Loops
+###  Nested Loops
 - Complex pattern printing
 - Matrix-style problems and logic simulations
 
-### 🔘 If-Else & 🔘🔘 Nested If-Else
+###  If-Else &  Nested If-Else
 - Condition-based decisions
 - Grading systems, comparisons, eligibility checks
 
-### 🔄🔘 Loops + Conditions Combo
+###  Loops + Conditions Combo
 - Dynamic patterns with logic
 - Real-world modeling using control structures
 
-### 📥 Input/Output Mastery
+###  Input/Output Mastery
 - Multiple test case formats
 - Edge-case validation
 - Clean and formatted outputs
@@ -65,18 +65,18 @@ This dedication and consistency earned me an **official Certificate of Achieveme
 
 ## 🚀 Key Takeaways
 
-- 🔍 Sharpened my **problem-solving mindset**
-- ⏱️ Improved speed and accuracy under pressure
-- 🔧 Gained solid experience with **Code::Blocks + GCC**
-- 🧠 Learned how to tackle a problem from **logic to code**
+-  Sharpened my **problem-solving mindset**
+-  Improved speed and accuracy under pressure
+-  Gained solid experience with **Code::Blocks + GCC**
+-  Learned how to tackle a problem from **logic to code**
 
 ---
 
 ## 🥇 What’s Next?
 
 
-💡 Exploring **advanced topics** like recursion, functions, and data structures  
-💪 Continuing my journey with a stronger mindset and bigger goals!
+ Exploring **advanced topics** like recursion, functions, and data structures  
+ Continuing my journey with a stronger mindset and bigger goals!
 
 
 
