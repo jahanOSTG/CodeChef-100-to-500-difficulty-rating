@@ -7,6 +7,7 @@ int main(){
     if((t+7)>170){
         cout<<"YES"<<endl;
     }else{
+        
         cout<<"NO"<<endl;
     }
 }
