@@ -2,6 +2,7 @@
 
 📈 I’ve successfully solved **over 500+ competitive programming problems** on [CodeChef](https://www.codechef.com/users/fariajanie), ranging from **100 to 500 difficulty levels**.  
 This dedication and consistency earned me an **official Certificate of Achievement** from CodeChef! 🎉
+🏅 **Solved 400+ problems on CodeChef**
 
 ---
 
