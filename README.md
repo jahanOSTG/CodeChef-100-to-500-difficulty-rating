@@ -57,7 +57,6 @@ This dedication and consistency earned me an **official Certificate of Achieveme
 
 - Faced repeated **logical errors** in nested conditions.
 - Took time to understand **pattern problems** and **loop boundaries**.
-- Spent countless nights debugging tiny mistakes like missing `;` or incorrect conditions.
 - Failed many test cases before learning **edge-case analysis**.
 - Almost gave up, but pushed forward through **trial and error**.
 
