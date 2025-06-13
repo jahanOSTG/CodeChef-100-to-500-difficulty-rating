@@ -51,18 +51,7 @@ This dedication and consistency earned me an **official Certificate of Achieveme
 
 ---
 
-## 😓 My Struggles Behind the Scenes
 
-> 💬 _"The road wasn’t easy. I remember staring at the screen for hours trying to figure out why my loop wasn’t ending, or why the output didn’t match the sample..."_
-
-- Faced repeated **logical errors** in nested conditions.
-- Took time to understand **pattern problems** and **loop boundaries**.
-- Failed many test cases before learning **edge-case analysis**.
-- Almost gave up, but pushed forward through **trial and error**.
-
-
-
----
 
 ## 🚀 Key Takeaways
 
