@@ -9,5 +9,5 @@ int main() {
 	}else{
 	    cout<<"DRY"<<endl;
 	}
-
+return 0;
 }
