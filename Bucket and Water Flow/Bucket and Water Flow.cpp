@@ -1,6 +1,7 @@
 #include<iostream>
 #include <algorithm>
 using namespace std;
+
 int main(){
     int t,a,b,c,d,e;
     cin>>t;
@@ -18,3 +19,4 @@ int main(){
 
     }
 }
+
