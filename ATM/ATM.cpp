@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 int main(){
     int a;
     float b;
@@ -14,3 +13,4 @@ int main(){
         cout << b - (a + 0.50) << endl;
     }
 }
+
